@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "/",
   },
-  title: "Harshit Sharma | AI Product Manager",
+  title: "Harshit Sharma | Director of AI Transformation",
   icons: {
     icon: [
       { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
@@ -27,11 +27,11 @@ export const metadata: Metadata = {
   },
   manifest: "/site.webmanifest",
   description:
-    "Portfolio of Harshit Sharma - AI Product Manager bridging engineering depth with product vision to build the future of AI.",
+    "Portfolio of Harshit Sharma - Director of AI Transformation leading enterprise AI in logistics, with a focus on evals, reliability, and trustworthy AI systems.",
   openGraph: {
-    title: "Harshit Sharma | AI Product Manager",
+    title: "Harshit Sharma | Director of AI Transformation",
     description:
-      "Bridging engineering depth with product vision. Building the next generation of AI-powered tools at the frontier.",
+      "Leading enterprise AI transformation in logistics. Shipping real products, obsessed with evals, reliability, and what makes AI systems trustworthy.",
     url: "https://www.harshit.ai",
     siteName: "Harshit Sharma",
     images: [
@@ -39,16 +39,16 @@ export const metadata: Metadata = {
         url: "https://www.harshit.ai/images/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Harshit Sharma — AI Product Manager",
+        alt: "Harshit Sharma, Director of AI Transformation",
       },
     ],
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Harshit Sharma | AI Product Manager",
+    title: "Harshit Sharma | Director of AI Transformation",
     description:
-      "Bridging engineering depth with product vision. Building the next generation of AI-powered tools at the frontier.",
+      "Leading enterprise AI transformation in logistics. Shipping real products, obsessed with evals, reliability, and what makes AI systems trustworthy.",
     images: ["https://www.harshit.ai/images/og-image.jpg"],
   },
 };

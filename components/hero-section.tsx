@@ -273,8 +273,7 @@ export function HeroSection() {
       >
         <div className="max-w-2xl">
           <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/5 px-4 py-1.5">
-            <span className="h-2 w-2 animate-pulse rounded-full bg-primary" />
-            <span className="text-[13px] font-medium text-primary">Open to Opportunities</span>
+            <span className="text-[13px] font-medium text-primary">AI Transformation &middot; Enterprise &middot; Logistics</span>
           </div>
 
           <h1 className="mb-4 text-balance text-5xl font-bold leading-tight tracking-tight text-foreground md:text-7xl">
@@ -282,11 +281,11 @@ export function HeroSection() {
           </h1>
 
           <p className="mb-2 text-xl font-medium text-primary md:text-2xl">
-            AI Product Manager
+            Director of AI Transformation
           </p>
 
           <p className="mb-8 max-w-lg text-[17px] leading-relaxed text-slate-400">
-            Product manager building at the frontier. I ship real products, work across the AI stack, and think obsessively about evals, reliability, and what makes AI systems trustworthy.
+            I lead enterprise AI transformation in logistics. I ship real products and think obsessively about evals, reliability, and what makes AI systems trustworthy.
           </p>
 
           <div className="flex flex-wrap gap-4">

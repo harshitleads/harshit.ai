@@ -273,3 +273,71 @@ Entries are append-only. Never edit old entries.
 **Why:** The security fixes combined with .env removal and stale unpublished changes caused cascading build failures. Getting apps back online was the priority.
 **Rejected:** Debugging individual security fix commits (too slow when apps are down).
 
+
+### 2026-04-16
+
+
+---
+
+## April 15, 2026 — E295 Paper 2 (Capstone Report Draft)
+
+**Decided:**
+- Title: "Catching AI Agent Failures Before They Ship" (matches presentation, value-first for mixed audience)
+- Dropped music agent entirely — 234A is Sentinel-only post team split
+- Report framed as pitch/business case rather than technical thesis (per Harshit's direction)
+- Writer split: HS = sections 1-5, 7, 9; IHA = section 6 (technical); YZ = section 8 (limitations) + Turnitin
+- Editor: Harshit
+- Word count target: ~4,200 (within 3,500-5,000 band)
+- Structure consolidates Paper 1's "Impact" + "Commercial Implications" into single "Results and Insights" section (addresses grader feedback on overlap)
+- Added Figure 1 (story image), Figure 2 (TAM concentric), Figure 3 (comp positioning chart) — addresses Paper 1's "need architecture diagram" feedback
+- 16 IEEE references
+
+**Rejected:**
+- Attaching Turnitin report to submission — assignment only requires reviewing it before submitting, not attaching
+- Keeping combined 234 framing — fully split to 234A scope
+
+**Open items for May 4 final:**
+- Idris to expand Section 6 with implementation details
+- Expand customer discovery to 15-20 interviews if possible
+- Update TAM numbers as market data matures
+- Add adversarial testing methodology to limitations/future work
+
+
+
+### 2026-04-26
+
+### 2026-04-12 -- OpenRouter API support requested
+**Decision:** Add to backlog. First real user request for OpenRouter integration in Eval Studio.
+**Why:** OpenRouter would unlock access to Llama, Mistral, Command R, and other models through one API key. Uses OpenAI-compatible API format so implementation is straightforward. User specifically wants it because they have free OpenRouter credits.
+**Rejected:** Immediate implementation (demo videos and resume are higher priority this week).
+
+
+### 2026-05-05
+
+
+---
+
+## May 4, 2026 — Capstone Final Deliverables Complete
+
+**Submitted:**
+- Final Capstone Report (`234A_Sentinel_FinalReport_2026.pdf`) submitted to bCourses (May 4, 5:57pm)
+- Final report emailed directly to Lee Fleming (advisor)
+- VC Pitch Deck uploaded to shared Drive folder per Lee's request (Friday May 8 deadline met early)
+- E295 Module 4 Reflection submitted
+
+**Outstanding:**
+- Team Google working folder access pending Susan's response — emailed her requesting access for Harshit, Idris, Yuejia
+- Final report still needs to be uploaded to team folder once access granted
+- Capstone Showcase May 7 (Mudd Hall, mandatory)
+- Lee's class final presentation Monday May 11 at 2pm
+
+**Notes:**
+- Lee's pitch deck feedback addressed via 5 patch slides: target agents, build vs buy economics, stickiness, bootstrap GTM, extended competitor scan
+- Lee gave permission for revisions until May 15 if advisor requires substantial changes
+
+
+
+### 2026-07-19 — Site-wide identity: Director of AI Transformation
+**Decision:** Replaced "AI Product Manager" with "Director of AI Transformation" across the hero and all metadata. Hero pill changed from "Open to Opportunities" to the neutral tag "AI Transformation · Enterprise · Logistics" (animated availability dot removed). Hero tagline rewritten to lead with enterprise AI transformation in logistics.
+**Why:** Align harshit.ai with LinkedIn, resume, and the O-1 filing so every public-facing surface states the same title.
+**Rejected:** Removing the pill entirely (loses positioning signal above the fold). Rewriting "PM" in market copy (PM Salary Ace, hot takes, Eval Studio competitive section) — those describe the profession or a product name, not Harshit's title.
